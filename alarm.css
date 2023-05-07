@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+/* front kalam */
+*{
+	font-family: 'Kalam', cursive;
+}
+
+
+.wrapper{
+	height: 800px;
+	background: ;
+}
+.header{
+	height: 50px;
+
+	background: #2C2929 ;
+	display: flex;
+	justify-content: space-between;
+	color: white;
+	padding-left: 80px ;
+	padding-right: 80px;
+	padding-bottom: 5px;
+	padding-top: 4px;
+
+
+}
+.body{
+	text-align: center;
+}
+/* .btn{
+	height: 30px;
+	width: 8%;
+
+	background: #1E2AC9;
+	color: white;
+	padding-bottom: 5%;
+} */
+
+.btn2{
+	height: 30px;
+	width: 8%;
+
+	background: skyblue;
+	color: black;
+	outline: none;
+	border: none;
+	
+
+}
+/* .row{
+height: 30px;
+width: 28%;
+background:red ;
+margin-left: 22% ;
+
+} */
+
+
+
+./* btn btn-primary{
+	height: 30px;
+}
+.card-2{
+	height: 90px;
+}
+.card wrapper:hover{
+	background-color: #ccc;
+ */
+/* } */
+
+.list-group-item{
+display: flex;
+justify-content: space-between;
+}
